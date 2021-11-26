@@ -1,3 +1,3 @@
 <?php 
-require('../app/index.html');
+require('./app/index.html');
 ?>
